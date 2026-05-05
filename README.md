@@ -166,8 +166,12 @@ streamlit run src/app_streamlit.py
 * Budget alerts
 * Forecast insights
 * Excel report
-
-(Add screenshots in `/images` folder)
+<img width="960" height="540" alt="ss1" src="https://github.com/user-attachments/assets/442d1d9e-60bc-4bb9-b6bd-1b8bcc27fc8c" />
+<img width="960" height="540" alt="ss2" src="https://github.com/user-attachments/assets/aabf9c16-c04f-4918-908f-a6c05214a34b" />
+<img width="960" height="540" alt="ss3" src="https://github.com/user-attachments/assets/e59b776c-212a-459d-a9d6-dda45a4895e2" />
+<img width="960" height="540" alt="ss4" src="https://github.com/user-attachments/assets/de073ccb-790d-429f-9a90-3bc1f39f51bc" />
+<img width="960" height="540" alt="ss5" src="https://github.com/user-attachments/assets/b60c0b04-0e86-44ce-a761-310f3a2565b8" />
+<img width="960" height="540" alt="ss6" src="https://github.com/user-attachments/assets/0235fcce-8691-4661-87f7-759f3f56924b" />
 
 ---
 
